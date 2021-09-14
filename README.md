@@ -1,4 +1,3 @@
-# Face -Mask-Detection-Run-Linux-Distro
-
+# Face-Mask-Detection-Run-LInux-Distro-Pop-OS
 
 
